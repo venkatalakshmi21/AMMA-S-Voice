@@ -1,0 +1,192 @@
+# 🎙️ AMMA'S VOICE
+
+### Learn. Listen. Speak with Confidence.
+
+AMMA'S VOICE is a voice-first Telugu-English learning assistant designed to help users improve their English speaking and pronunciation skills through adaptive learning, voice interaction, Telugu explanations, and personalized feedback.
+
+The project is inspired by the traditional way mothers teach and guide children patiently. AMMA'S VOICE brings that supportive learning experience into a modern digital platform.
+
+---
+
+## 🌟 Project Overview
+
+Many learners understand English but hesitate to speak because of pronunciation difficulties, lack of confidence, and limited access to personalized guidance.
+
+AMMA'S VOICE provides an interactive learning environment where users can:
+
+- Listen to English phrases
+- Understand Telugu meanings
+- Practice speaking using voice recognition
+- Receive pronunciation scores
+- Identify difficult words
+- Get adaptive learning recommendations
+- Learn at a comfortable speed
+
+The system adapts its learning strategy based on the learner's performance and feedback.
+
+---
+
+# 🎯 Problem Statement
+
+Traditional English learning platforms often focus heavily on grammar and text-based learning. Many Telugu-speaking learners face difficulties in:
+
+- Pronouncing English words correctly
+- Understanding English meanings
+- Speaking confidently
+- Receiving personalized feedback
+- Practicing at their own learning speed
+
+There is a need for a simple, voice-first learning platform that combines Telugu explanations with English speaking practice.
+
+---
+
+# 💡 Proposed Solution
+
+AMMA'S VOICE is an adaptive Telugu-English voice learning assistant that helps users learn English through listening, speaking, and practicing.
+
+The system provides:
+
+1. English phrase learning
+2. Telugu meaning explanations
+3. Speech recognition
+4. Pronunciation analysis
+5. Difficult word assistance
+6. Adaptive learning strategies
+7. Personalized feedback
+8. Learning progress tracking
+
+---
+
+# 🚀 Key Features
+
+## 🗣️ Voice-Based English Learning
+
+Users can listen to English phrases and practice speaking them.
+
+- English Text-to-Speech
+- Speech Recognition
+- Voice interaction
+- Adjustable learning speed
+
+---
+
+## 🌐 Telugu-English Learning
+
+The platform supports bilingual learning.
+
+Users can:
+
+- View English phrases
+- Listen to Telugu meanings
+- Learn through Telugu + English explanations
+- Switch between English and Telugu interface languages
+
+---
+
+## 🎯 Pronunciation Analysis
+
+The system analyzes the spoken sentence by comparing the recognized speech with the target phrase.
+
+Features include:
+
+- Pronunciation score
+- Word-level analysis
+- Correct word detection
+- Difficult word identification
+- Personalized learning feedback
+
+---
+
+## 🧠 Adaptive Learning Engine
+
+AMMA'S VOICE adapts based on user feedback.
+
+The learning engine can recommend:
+
+- ⚡ Normal Learning
+- 🎧 Slow Learning
+- 🐢 Deep Practice
+
+Voice speed is adjusted based on the learner's difficulty level.
+
+---
+
+## 🔤 Difficult Word Assistant
+
+Users can practice difficult English words separately.
+
+Users can:
+
+- Type a difficult word
+- Speak a difficult word using the microphone
+- Listen to the pronunciation
+- Repeat the word multiple times
+
+---
+
+## 📊 Learning Progress Tracking
+
+The application tracks:
+
+- Understood phrases
+- Partially understood phrases
+- Phrases requiring more practice
+- Total phrases
+- Practiced phrases
+- Pronunciation performance
+- Average pronunciation score
+
+---
+
+## 🎨 Modern User Interface
+
+AMMA'S VOICE includes:
+
+- Professional landing page
+- Custom branding
+- Telugu/English language toggle
+- Dark/Light mode
+- Voice-learning dashboard
+- Session completion report
+- Responsive design
+
+---
+
+# 🏗️ System Architecture
+
+```text
+                    ┌──────────────────────┐
+                    │       USER           │
+                    │  Telugu/English      │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                ┌──────────────────────────┐
+                │      REACT FRONTEND      │
+                │                          │
+                │ • Landing Page           │
+                │ • Learning Dashboard     │
+                │ • Language Toggle        │
+                │ • Theme Toggle           │
+                │ • Progress Tracking      │
+                └────────────┬─────────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
+ ┌────────────────┐ ┌────────────────┐ ┌──────────────────┐
+ │ Speech Engine  │ │ Adaptive Engine│ │ Pronunciation    │
+ │                │ │                │ │ Analysis         │
+ │ • Text-to-Speech│ │ • Difficulty   │ │ • Speech-to-Text │
+ │ • Telugu Voice │ │ • Speed Control│ │ • Word Matching  │
+ └────────────────┘ └────────────────┘ └──────────────────┘
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │   BACKEND SERVER    │
+                  │                     │
+                  │ • Voice Processing  │
+                  │ • API Services      │
+                  └─────────────────────┘
