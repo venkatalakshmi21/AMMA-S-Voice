@@ -136,6 +136,10 @@ The application tracks:
 - Pronunciation performance
 - Average pronunciation score
 
+
+<img width="1024" height="559" alt="learning flow image" src="https://github.com/user-attachments/assets/55f444a4-3cee-4e64-ba82-c9d02e392112" />
+
+
 ---
 
 ## 🎨 Modern User Interface
@@ -190,3 +194,12 @@ AMMA'S VOICE includes:
                   │ • Voice Processing  │
                   │ • API Services      │
                   └─────────────────────┘
+
+
+
+
+<img width="2720" height="4320" alt="amma_voice_architecture" src="https://github.com/user-attachments/assets/19d36ca6-fb9d-45ec-bd02-8ca8bb0af928" />
+
+
+
+
