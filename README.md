@@ -8,6 +8,9 @@ The project is inspired by the traditional way mothers teach and guide children 
 
 ---
 
+<img width="1626" height="935" alt="Screenshot 2026-09-06 213618" src="https://github.com/user-attachments/assets/f344afd3-f9aa-4125-a489-1350d4a1eec8" />
+
+
 ## 🌟 Project Overview
 
 Many learners understand English but hesitate to speak because of pronunciation difficulties, lack of confidence, and limited access to personalized guidance.
@@ -57,6 +60,10 @@ The system provides:
 
 ---
 
+<img width="1136" height="378" alt="Screenshot 2026-09-06 213649" src="https://github.com/user-attachments/assets/23c0bf12-9101-4eed-b669-49c832cbce2e" />
+
+
+
 # 🚀 Key Features
 
 ## 🗣️ Voice-Based English Learning
@@ -69,6 +76,9 @@ Users can listen to English phrases and practice speaking them.
 - Adjustable learning speed
 
 ---
+
+<img width="1117" height="400" alt="Screenshot 2026-09-06 213709" src="https://github.com/user-attachments/assets/4c96525c-acb7-4003-98ca-585e77e31bb8" />
+
 
 ## 🌐 Telugu-English Learning
 
@@ -124,6 +134,10 @@ Users can:
 
 ---
 
+<img width="842" height="266" alt="Screenshot 2026-09-06 214523" src="https://github.com/user-attachments/assets/fa49cc6f-b804-4abe-8ae0-d081bb167cdf" />
+
+
+
 ## 📊 Learning Progress Tracking
 
 The application tracks:
@@ -135,6 +149,8 @@ The application tracks:
 - Practiced phrases
 - Pronunciation performance
 - Average pronunciation score
+
+<img width="835" height="782" alt="Screenshot 2026-09-06 214618" src="https://github.com/user-attachments/assets/308e16ee-6d0d-4fd0-aeef-1c4eb1a44ad6" />
 
 
 <img width="1024" height="559" alt="learning flow image" src="https://github.com/user-attachments/assets/55f444a4-3cee-4e64-ba82-c9d02e392112" />
@@ -194,12 +210,4 @@ AMMA'S VOICE includes:
                   │ • Voice Processing  │
                   │ • API Services      │
                   └─────────────────────┘
-
-
-
-
-<img width="2720" height="4320" alt="amma_voice_architecture" src="https://github.com/user-attachments/assets/19d36ca6-fb9d-45ec-bd02-8ca8bb0af928" />
-
-
-
-
+<img width="552" height="896" alt="Screenshot 2026-09-06 214910" src="https://github.com/user-attachments/assets/a9ed5a5c-c79e-4924-b19c-c2f818122362" />
