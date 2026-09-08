@@ -211,3 +211,18 @@ AMMA'S VOICE includes:
                   │ • API Services      │
                   └─────────────────────┘
 <img width="552" height="896" alt="Screenshot 2026-09-06 214910" src="https://github.com/user-attachments/assets/a9ed5a5c-c79e-4924-b19c-c2f818122362" />
+
+
+
+
+local host deployment :  http://localhost:5173/
+
+frontend commands:
+1) cd ammas-voice
+2) Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+3) npm run dev
+
+
+backend commands:
+1) cd backend
+2) node server.js
